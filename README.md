@@ -1,2 +1,15 @@
 # Hangman
-First Use of Github Submission for CS112
+
+PROJECT 1
+
+NAME:
+
+DATE OF COMPLETION:
+
+PURPOSE OF PROJECT:
+
+OUTSIDE SOURCES / HELP:
+
+MESSAGE FOR TA GRADER:
+
+
